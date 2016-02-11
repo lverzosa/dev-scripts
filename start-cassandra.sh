@@ -1,3 +1,3 @@
 #!/bin/bash
 
-launchctl load ~/Library/LaunchAgents/homebrew.mxcl.cassandra.plist
+launchctl load /usr/local/opt/cassandra/homebrew.mxcl.cassandra.plist
